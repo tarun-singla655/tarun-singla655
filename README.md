@@ -37,5 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarun-singla655&show_icons=true&locale=en&layout=compact" alt="tarun-singla655" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-singla655&show_icons=true&locale=en" alt="tarun-singla655" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-singla655&" alt="tarun-singla655" /></p>
