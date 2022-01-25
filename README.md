@@ -3,17 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-singla655&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-singla655" /> </p>
 
-- 🔭 I’m currently working on **Nodejs**
+- 🔭 I’m currently working on **Reacty**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **golang**
 
-- 👯 I’m looking to collaborate on **on my project on Photopedia**
-
-- 🤝 I’m looking for help with **Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarun-singla655](https://github.com/tarun-singla655)
 
-- 💬 Ask me about **Coding and web development**
+- 💬 Ask me about **Coding and React**
 
 - 📫 How to reach me **singlat753@gmail.com**
 
